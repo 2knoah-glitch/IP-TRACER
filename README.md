@@ -3,8 +3,8 @@
 IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and Linux based systems. you can easily retrieve ip address information using IP-Tracer. IP-Tracer use ip-api to track ip address.
 
 <p align="center">
-<img width="47%" src="src/Screenshot_20250621-053738_.png"/>
-<img width="40%" src="src/Screenshot_20250621-053555_.png"/>
+![IMG](https://github.com/2knoah-glitch/IP-TRACER/blob/d4774ddc4be72cedf7dcdfcea3c10137b953a86e/Screenshot_20250621-053555_Moto%20App%20Launcher.PNG)
+![IMG](https://github.com/2knoah-glitch/IP-TRACER/blob/d4774ddc4be72cedf7dcdfcea3c10137b953a86e/Screenshot_20250621-053738_Moto%20App%20Launcher.PNG)
 </p>
 
 ## How to install IP-Tracer ?
