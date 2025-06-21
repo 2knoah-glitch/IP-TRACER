@@ -5,7 +5,7 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 
 ![IMG](https://github.com/2knoah-glitch/IP-TRACER/blob/d4774ddc4be72cedf7dcdfcea3c10137b953a86e/Screenshot_20250621-053555_Moto%20App%20Launcher.PNG)
 ![IMG](https://github.com/2knoah-glitch/IP-TRACER/blob/d4774ddc4be72cedf7dcdfcea3c10137b953a86e/Screenshot_20250621-053738_Moto%20App%20Launcher.PNG)
-</p>
+
 
 ## How to install IP-Tracer ?
 
